@@ -1,0 +1,40 @@
+.bgimg{
+    background-image:url("https://img.freepik.com/free-vector/golden-particles-bokeh-background_52683-22159.jpg?w=1060&t=st=1669045102~exp=1669045702~hmac=daafba2c654cba4e1fff850100b887506dcffd1e4ee85db501038d1e725d7f88");
+    background-size: cover;
+    height:70vh;
+    
+
+
+}
+.firstheading{
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    
+    padding-top:180px;
+}
+.holicard{
+    background-color:skyblue;
+    height: 80vh;
+}
+.holiphoto{
+    height:120px;
+    width:127px;
+
+}
+.holicardss{
+    background-color: white;
+    width:150px;
+    border-radius: 15px;
+    padding:5px;
+    height:145px;
+    margin:15px;
+    text-align:center;
+    margin-top:30px;
+}
+.holiheading{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:normal;
+}
